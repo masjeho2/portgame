@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-KEYWORD,starrails
+  - DOMAIN,starrails.com
+  # TCP
+  - DST-PORT,52681/52682/54660-54666
+
+  
+  # UDP
+  - DST-PORT,58173/52166/24024/50006/64217/64218/56400
