@@ -1,0 +1,12 @@
+# https://nanangmrk.com/daftar-port-game-terbaru-2021/
+payload:
+  - DOMAIN-KEYWORD,netmarble
+  - DOMAIN,gs-sk2gb-sea-adventure03.netmarble.com
+  # TCP
+  - DST-PORT,35502
+
+  
+  # UDP
+  - DST-PORT,35502
+
+
