@@ -2,6 +2,7 @@
 # https://t.me/c/1526523592/255/89313
 # https://t.me/c/1526523592/255/89310
 payload:
+  - DOMAIN-KEYWORD,komiku
   - DST-PORT,2702
   - DST-PORT,3702
   - DST-PORT,4001
